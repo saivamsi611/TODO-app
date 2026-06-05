@@ -2,7 +2,7 @@
 
 **INTEN ID:** CITS2812  
 **FULL NAME:** P. Sai Vamsi  
-**NO. OF WEEKS:** 1 Week  
+**NO. OF WEEKS:** 2 Week  
 **PROJECT NAME:** To-Do List Mobile App  
 
 ## Project Scope
